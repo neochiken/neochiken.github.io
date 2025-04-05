@@ -10,3 +10,7 @@ aux_links:
 logo: "img\Tahrovin.png"
 
 color_scheme: dark
+
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
