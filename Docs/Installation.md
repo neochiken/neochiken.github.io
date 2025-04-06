@@ -1,9 +1,12 @@
 ---
 title: Installation
+layout: home
 nav_order: 2
 ---
 
-![Tahrovin Banner](img/Tahrovin.png)
+![Tahrovin Banner](assets/images/Tahrovin.png)
+{: .no_toc }
+
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
 
@@ -15,9 +18,9 @@ First things first: **this list contains adult content and you must be of legal 
   
 Support and general talk about Tahrovin resides on the iAmMe Modlist Discord:
 
-[![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
+[![DiscordButton](assets/images/DiscordButton.png)](https://discord.gg/iammodlist)
 
-[![Ko-fiButton](img/Kofi.png)](https://ko-fi.com/neochiken)
+[![Ko-fiButton](assets/images/Kofi.png)](https://ko-fi.com/neochiken)
 
 <br>
 
@@ -186,7 +189,7 @@ Driver defaults from NVidia for shader cache size is limited to 4GB. Being this 
 4. Set the Shader Cache to *at least* 10GB
 5. Done
 
-![Shader Cache](img/ShaderCache.png)
+![Shader Cache](assets/images/ShaderCache.png)
 
 ### Configuring Steam
 In both global and game settings within Steam and Oculus settings you must ensure the following is set:
@@ -260,7 +263,7 @@ Almost there but we're not out of the woods yet! After Wabbajack has given you t
 ## Profiles
 Tahrovin comes with a variety of different profiles to match your preferences. You can choose the profile by clicking on the drop down menu in the top center of MO2. 
 
-![PROFILES](img/profiles.png)
+![PROFILES](assets/images/profiles.png)
 
  - Tahrovin: This is the default profile. It uses Community Shaders (CS for short) and ReShade for visuals and is the core experience all other profiles are built upon
  - Perfomance: This profile sacrifices some of the visual upgrades like CS and ReShade to accomodate lower end systems. It is based on the default profile and makes no sacrifices in gameplay/content mods, so you're only missing out on some visual improvements
@@ -287,14 +290,14 @@ Like in the previous section, Skyrim VR Upscaler options are found in MO2 under 
 
 Remember, AMD and non-RTX GPU's must use **FSR** and not DLSS or DLAA.
 
-![Upscaler Selection](img/UpscalerSelection.png)
+![Upscaler Selection](assets/images/UpscalerSelection.png)
 
 <br>
 
 ## Creating a desktop shortcut
 Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **Tahrovin** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
 
-![Desktop Shortcut Creation](img/DesktopShortcut00.png)
+![Desktop Shortcut Creation](assets/images/DesktopShortcut00.png)
 
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
 
@@ -336,11 +339,11 @@ The MCM setup is *mostly* automated and will run on its own after you've finishe
 
 1. Navigate to the Mod Configuration Menu > SexLab Eager NPCs > General
 
-![SLEN1](img/SLEN1.jpg)
+![SLEN1](assets/images/SLEN1.jpg)
 
 2. Scroll all the way down to the bottom right of the General page and click `Load settings from profile`
 
-![SLEN2](img/SLEN2.jpg)
+![SLEN2](assets/images/SLEN2.jpg)
 
 3. Go to the Sexlab Tools MCM and Bind a button to its hotkey, this will allow you to select animations while in a sexlab scene and wont have any effect outside of one so if you are on an oculus controller B for example would be a very good choice.
 
