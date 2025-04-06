@@ -42,12 +42,12 @@ This one has a dedicated section on the main page
 7. In the bottom left click Batch Build, then on the following window click okay.
 8. Play Tahrovin and enjoy!
 
-## AddItemMenu
+## Modex Item Spawner
 
-1. Enable AddItemMenu - NG and AddItemMenu - NG Patch
-2. If using SteamVR you can also enable AddItemMenu search VR keyboard patch to enable searching with the steam vr keyboard.
-3. Place AddItemMenuSE.esp just below SOSRaceMenu.esp
-4. Play Tahrovin!
+1. Enable Modex
+2. in game press DEL to open up the gui just like upscaler or reshade
+3. search for the item you want to spawn
+4. click on it to add it to your inventory
 
 ## VR FPS Stabilizer - Occlusion FPS boost
 

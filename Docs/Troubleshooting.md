@@ -16,7 +16,7 @@ Mods often get updated and the old version that this modlist was running is dele
 This error will happen usually when the modlist gets an update. Check to see if a new update is available for download but if there isn't, you will need to wait until there is.
 
 ### Wabbajack is unable to find my game folder:
-Wabbajack will not work with pirated versions of Skyrim VR. If you didn't follow the advice in the preinstallation steps, I'd seriously advise you to do so now. [Here's a handy link to take you there automagically.](README.md\#Preparation)
+Wabbajack will not work with pirated versions of Skyrim VR. If you didn't follow the advice in the preinstallation steps, I'd seriously advise you to do so now. [Here's a handy link to take you there automagically.](/Docs/README.md\#Preparation)
 
 ### Wabbajack is unable to continue because of unknown files
 Move your downloads folder outside of your Tahrovin installation folder, ensure that the Tahrovin installation folder is clear of any and all files and then close and restart Wabbajack. Remember to point it to the new location of the downloads folder! Don't want to have to download everything again.
