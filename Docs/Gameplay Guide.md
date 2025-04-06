@@ -61,7 +61,7 @@ If you pick Stealth Archer though, I will find you.
 Firstly, welcome to Skyrim VR - I hope you enjoy your stay.
 
 Secondly, I suggest you watch a couple of videos:
-- https://youtu.be/CEi7gwN8hgg
-- https://youtu.be/Nd9A-_G2eXU
+- [How To Use VRIK Gestures](https://youtu.be/CEi7gwN8hgg)
+- [Spell Wheel VR Basics](https://youtu.be/Nd9A-_G2eXU)
 
 Come back when you're done and I'm sure you'll be prepped and ready to go.
