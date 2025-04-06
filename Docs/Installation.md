@@ -36,7 +36,7 @@ And don't worry, for those who prefer to play as a male character, males have al
 - [Changelog](Changelog.md)
 - [Controller Bindings](ControllerBindings.md)
 - [Gameplay Guide](Gameplay%20Guide.md)
-- [Performance Tips](Oculus%20Performance%20Tips.md)
+- [Performance Tips](Performance%20Tips.md)
 - [Troubleshooting](Troubleshooting.md)
 - [Optional Mods](Optional%20Mods.md)
 - [Use Reshade 6 with OpenComposite](ReshadeWithOpenComposite.md)
@@ -121,7 +121,7 @@ I run a relatively powerful PC with the following specs:
   * RAM: 32GB 
   * GPU: RX 7900 XTX
 
-I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**  
+I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](Performance%20Tips.md) if you are struggling to get the game to run well.**  
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 5000 series 
   * RAM: 16GB of DDR4
@@ -305,7 +305,7 @@ Done! You should now have a shortcut on your desktop which you can now run the m
 
 ## Swapping between SteamVR and OpenComposite Binaries
 See Oculus performance tips
-[Oculus Performance Tips](Oculus%20Performance%20Tips.md)
+[Oculus Performance Tips](Performance%20Tips.md)
 
 <br>
 
