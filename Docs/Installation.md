@@ -383,7 +383,7 @@ Like this?
 
 ![](https://i.imgur.com/3zYQXNz.png)
 
-If you are getting an error message like the screenshot when launching the game, you have OpenComposite enabled for a non-Oculus headset or you are using VirtualDesktop. Disable OpenComposite, enable SteamVR.
+If you are getting an error message like the screenshot when launching the game, you have OpenComposite enabled for a non-Oculus headset or Open Composite is not detecting your headset.
 
 <br>
 
