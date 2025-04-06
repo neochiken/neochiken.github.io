@@ -33,13 +33,13 @@ And don't worry, for those who prefer to play as a male character, males have al
 
 # Quick Links
 
-- [Changelog](/Docs/Changelog.md)
-- [Controller Bindings](/Docs/ControllerBindings.md)
-- [Gameplay Guide](/Docs/Gameplay%20Guide.md)
-- [Performance Tips](/Docs/Performance%20Tips.md)
-- [Troubleshooting](/Docs/Troubleshooting.md)
-- [Optional Mods](/Docs/Optional%20Mods.md)
-- [Use Reshade 6 with OpenComposite](/Docs/ReshadeWithOpenComposite.md)
+- [Changelog](/Docs/Changelog.html)
+- [Controller Bindings](/Docs/ControllerBindings.html)
+- [Gameplay Guide](/Docs/Gameplay%20Guide.html)
+- [Performance Tips](/Docs/Performance%20Tips.html)
+- [Troubleshooting](/Docs/Troubleshooting.html)
+- [Optional Mods](/Docs/Optional%20Mods.html)
+- [Use Reshade 6 with OpenComposite](/Docs/ReshadeWithOpenComposite.html)
 
 <br>
 
@@ -121,7 +121,7 @@ I run a relatively powerful PC with the following specs:
   * RAM: 32GB 
   * GPU: RX 7900 XTX
 
-I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](/Docs/Performance%20Tips.md) if you are struggling to get the game to run well.**  
+I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](/Docs/Performance%20Tips.html) if you are struggling to get the game to run well.**  
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 5000 series 
   * RAM: 16GB of DDR4
@@ -245,7 +245,7 @@ Download these files and place them *as they are* into the same folder you told 
 <br>
 
 ## Troubleshooting
-If you're having issues with installation, check the [troubleshooting page](/Docs/Troubleshooting.md). 
+If you're having issues with installation, check the [troubleshooting page](/Docs/Troubleshooting.html). 
 
 <br>
 
@@ -305,7 +305,7 @@ Done! You should now have a shortcut on your desktop which you can now run the m
 
 ## Swapping between SteamVR and OpenComposite Binaries
 See Oculus performance tips
-[Oculus Performance Tips](/Docs/Performance%20Tips.md)
+[Oculus Performance Tips](/Docs/Performance%20Tips.html)
 
 <br>
 
@@ -354,12 +354,12 @@ Done! Exit the MCM and save.
 <br>
 
 ## Now go read the Gameplay Guide
-[Right here](/Docs/Gameplay%20Guide.md)
+[Right here](/Docs/Gameplay%20Guide.html)
 
 <br>
 
 ## Controller Bindings
-[Controller bindings can be found here](/Docs/ControllerBindings.md)
+[Controller bindings can be found here](/Docs/ControllerBindings.html)
 
 <br>
 
@@ -474,7 +474,7 @@ I don't know, can you?
 <br>
 
 ## Enabling optional mods
-The optional mods instruction page can be found [here](/Docs/Optional%20Mods.md)
+The optional mods instruction page can be found [here](/Docs/Optional%20Mods.html)
 
 <br>
 
@@ -485,7 +485,7 @@ Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on a
 
 ## Can't find your issue here?
 
-Take a look at [Troubleshooting](/Docs/Troubleshooting.md)
+Take a look at [Troubleshooting](/Docs/Troubleshooting.html)
 
 <br>
 
@@ -494,7 +494,7 @@ Take a look at [Troubleshooting](/Docs/Troubleshooting.md)
 <br>
 
 # Updating Tahrovin
-When an update is released, please always check the [changelog](/Docs/Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
+When an update is released, please always check the [changelog](/Docs/Changelog.html) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
 
 If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop it from doing this if you're going to add stuff to modlists but if you don't, you have to prepend your mod name with `[NoDelete]` - this will make Wabbajack ignore these files. You will need to reinstall these mods and re-sort their load order after an update though, so I hope you kept backup information on where they went in the load order!
 

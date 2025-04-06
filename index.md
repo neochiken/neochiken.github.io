@@ -26,7 +26,7 @@ To get started with creating a site, simply:
 1. click "[use this template]" to create a GitHub repository
 2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.html#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
 ----
 
@@ -34,7 +34,7 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
+[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.html
 [Jekyll]: https://jekyllrb.com
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate

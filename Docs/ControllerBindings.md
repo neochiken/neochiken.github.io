@@ -107,4 +107,4 @@ If using Neo's bindings L Thumbstick click = Y
 Hold down right trigger while activating an animal carcass you haven't looted yet to pick up the whole carcass to attempt to sell to hunters or tavern keepers.
 
 ## Personal Advice
-If these gestures don't make sense to you head to the [gameplay guide](/Docs/Gameplay%20Guide.md) and watch the first video linked at the bottom to learn more about gestures.
+If these gestures don't make sense to you head to the [gameplay guide](/Docs/Gameplay%20Guide.html) and watch the first video linked at the bottom to learn more about gestures.
