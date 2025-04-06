@@ -1,3 +1,8 @@
+---
+title: Installing Reshade 6 to work with open composite
+layout: home
+nav_order: 5
+---
 # Steps to install reshade 6 with open composite
 
 - Make sure you have glamur and 5.9.2 reshade binaries untucked under the reshade tab

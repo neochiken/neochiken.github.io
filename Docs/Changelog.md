@@ -1,3 +1,9 @@
+---
+title: Changelog
+layout: home
+nav_order: 9
+---
+
 # Changelog
 
 ## Tahrovin V0.1

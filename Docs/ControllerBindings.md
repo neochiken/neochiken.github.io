@@ -1,12 +1,18 @@
+---
+title: Controller Bindings
+layout: home
+nav_order: 6
+---
+
 # Controller Bindings
 
 ## Oculus Headsets
 
-![Controller Bindings](img/ControllerBindings.png)
+![Controller Bindings](/assets/images/ControllerBindings.png)
 
 ## Neo's Bindings (must be enabled before creating character)
 
-![Neo's Bindings](img/Neo%20Controls.png)
+![Neo's Bindings](/assets/images/Neo%20Controls.png)
 
 ## Valve Index (with the Alternative VRIK Bindings selected)
 

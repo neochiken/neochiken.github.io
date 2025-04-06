@@ -1,22 +1,28 @@
+---
+title: Performance Tips
+layout: home
+nav_order: 3
+---
+
 # Performance Tips
 There are a couple things you can do that can help with performance that I recommend.
 
 ## Using OpenComposite
 To switch to Open Composite select OC swapper in the dropdown menu in MO2
 
-![OCSwapper1](img/OCSwapper1.png)
+![OCSwapper1](/assets/images/OCSwapper1.png)
 
 then click the button!
 
-![OCSwapper2](img/OCSwapper2.png)
+![OCSwapper2](/assets/images/OCSwapper2.png)
 
 Then you will need to set your prefered platform to handle OpenXR
 
-![OpenXRSelect](img/OpenXRSelect.png)
+![OpenXRSelect](/assets/images/OpenXRSelect.png)
 
 Optionally if you would like to have a name other than Tahrovin when using Open Composite you can use the OC Character Renamer in the Your Choices section of MO2. Just right click on the mod, open in explorer, open the root folder and open opencomposite.ini. You can then change Tahrovin to be whatever you want your character to be named when you finish character creation.
 
-![OCCharacterNamer](img/OCCharacterNamer.png)
+![OCCharacterNamer](/assets/images/OCCharacterNamer.png)
 
 ## Profiles
 There are three different profiles in Tahrovin, default which uses community shaders and reshade (Medium performance impact), ENB which uses ENB VR for visuals (High Performance impact), and then performance which only uses reshade and has the least performance impact.
@@ -35,19 +41,19 @@ Changing the refresh rate to a higher one in the Oculus settings reduces the max
 
 So, to do this you need to start by connecting your Quest 2 headset to your PC via USB, power your headset on and then head over to **Devices** in the left-hand menu of the Oculus PC client.
 
-![Oculus Client 1](img/OculusClient00.jpg)
+![Oculus Client 1](/assets/images/OculusClient00.jpg)
 
 When in there, connect select the top menu option:
 
-![Oculus Client 2](img/OculusClient01.png)
+![Oculus Client 2](/assets/images/OculusClient01.png)
 
 In the right-hand menu that pops-up, scroll down to **Graphics Preferences**:
 
-![Oculus Client 3](img/OculusClient02.png)
+![Oculus Client 3](/assets/images/OculusClient02.png)
 
 In the pop-up menu, ensure that the **Automatic** resolution scaling is *OFF*. I recommend trying each setting in turn to see at which point you get the best look vs performance. I can't tell you what point that would be because it's a subjective choice. Also ensure that the **Rendering Resolution** is at *1.0x* as stated in the main readme.
 
-![Oculus Client 4](img/OculusClient03.png)
+![Oculus Client 4](/assets/images/OculusClient03.png)
 
 Once you've made your changes, click **OK**.
 
@@ -58,19 +64,19 @@ Increasing the USB data rate means that your PC and your headset can communicate
 
 To do this, head to the installation folder of the Oculus PC client, usually `C:\Program Files\Oculus`, and head into the **Support** folder:
 
-![Explorer 1](img/Explorer00.png)
+![Explorer 1](/assets/images/Explorer00.png)
 
 Once there, head into the **oculus-diagnostics** folder:
 
-![Explorer 2](img/Explorer01.png)
+![Explorer 2](/assets/images/Explorer01.png)
 
 Once there, run the **OculusDebugTool**:
 
-![Explorer 3](img/Explorer02.png)
+![Explorer 3](/assets/images/Explorer02.png)
 
 in the Oculus Debug Tool, change **Encode Bitrate (Mbps)** to 350. You can go as high as 500Mbps as mentioned earlier but try somewhere in the middle first before going all in.
 
-![Oculus Debug Tool 1](img/OculusDebugTool00.png)
+![Oculus Debug Tool 1](/assets/images/OculusDebugTool00.png)
 
 Once changed, close out the tool and done!
 

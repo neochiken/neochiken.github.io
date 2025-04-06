@@ -1,3 +1,9 @@
+---
+title: Installing Optional Mods
+layout: home
+nav_order: 4
+---
+
 # Optional Mods Instructions
 
 Follow the instructions under each mod if you wish to enable that optional mod.
@@ -7,7 +13,7 @@ Follow the instructions under each mod if you wish to enable that optional mod.
 1. Enable the mod and the Tahrovin - Arachnophobia Patch
 2. On the right panel in the plugins tab place Arachnophobia - Spiders are Wolves.esp above TahrovinCR.esp and Tahrovin - Arachnophobia Patch.esp just below TahrovinCR.esp
 
-![Arachnophobia](img/Arachnophobia.png)
+![Arachnophobia](/assets/images/Arachnophobia.png)
 
 ## Sexlab - Cum Overlays
 
@@ -26,11 +32,11 @@ This one has a dedicated section on the main page
 3. Open Bodyslidex64
 4. Click the magnifying glass next to group filter in the top right and select choose groups
 
-![DaedricBitchs1](img/DaedricBitchs1.png)
+![DaedricBitchs1](/assets/images/DaedricBitchs1.png)
 
 5. Select the MFBO group and click okay
 
-![DaedricBitchs2](img/DaedricBitchs2.png)
+![DaedricBitchs2](/assets/images/DaedricBitchs2.png)
 
 6. Make sure the preset is set to - Zeroed Sliders -
 7. In the bottom left click Batch Build, then on the following window click okay.
@@ -53,18 +59,18 @@ This one is for people who don't like the skimpy bikini armor of The Amazing Wor
 
 1. Filter the left panel of MO2 for TAWOBA and disable these mods
 
-![Disable Tawoba](img/Disable%20Tawoba.png)
+![Disable Tawoba](/assets/images/Disable%20Tawoba.png)
 
 2. Enable CBBE 3BA Vanilla Outfits Redone (TAWOBA REPLACER)
 3. Move the ESP above TahrovinCR.esp
 4. Open BodySlide x64
 5. click the magnifying glass next to group filter in the top right and click choose groups
 
-![DaedricBitchs1](img/DaedricBitchs1.png)
+![DaedricBitchs1](/assets/images/DaedricBitchs1.png)
 
 6. Check all 3 CBBE 3BA Vanilla options
 
-![CBBE 3BA Vanilla Redone](img/CBBE%203BA%20Vanilla%20Redone1.png)
+![CBBE 3BA Vanilla Redone](/assets/images/CBBE%203BA%20Vanilla%20Redone1.png)
 
 7. Make sure the preset is set to - Zeroed Sliders - and then click batch build in the bottom left and then click build on the next window
 8. For each option pick the variant that you want in your game.
@@ -87,7 +93,7 @@ Changes the lockpicking minigame to one similar to oblivion's, I personally find
 1. Enable Oblivionesque Lockpicking Redone and O.L.R. Retexture - Visually Realistic Lockpicking - Oblivion Lock Mod
 2. Place the OblivionesqueLockpickingRedone.esp above TahrovinCR.esp and OblivionesqueLockpickingRedone - No Wire Traps.esp just below TahrovinCR.esp
 
-![Lockpicking](img/Lockpicking.png)
+![Lockpicking](/assets/images/Lockpicking.png)
 
 3. If when playing you get a bug where your lockpick repeatedly shatters after pressing trigger enable Change Lockpicking button to A for Oblinionesque Lockpicking Redone
 4. Have fun!

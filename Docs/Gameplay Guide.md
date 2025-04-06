@@ -1,3 +1,9 @@
+---
+title: Gameplay Guide
+layout: home
+nav_order: 7
+---
+
 # Tahrovin Gameplay Guide
 
 ## Contents
