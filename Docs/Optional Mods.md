@@ -106,3 +106,9 @@ Changes the lockpicking minigame to one similar to oblivion's, I personally find
 ## QuicklootVR ##
 1. Enable Quickloot VR in the left panel of MO2
 2. Drag QuicklootVR.esp above TahrovinCR.esp in the right panel under the plugins tab
+
+## Muscle Mommy Uthgerd
+1. Enable Tahrovin Muscle Mommy Uthgerd (credits to SerketHetyt for Unbound Unbent Unbroken which I used as the appearance mod adding muscle normals from cbbe muscle solutions and a bodyslide from the same mod)
+2. Place Unbound Unbent Unbroken - SerketHetyt's Uthgerd Overhaul.esp just under TahrovinCR.esp or TahrovinCRDegen.esp if you are on the degeneracy profile
+3. Place Uthgerd Body.esp Just below Unbound Unbent Unbroken - SerketHetyt's Uthgerd Overhaul.esp
+4. Done! if you have already met Uthgerd this playthrough her bodyslide may fail to apply, if this happens just use the autobody gesture to reapply it to her.
