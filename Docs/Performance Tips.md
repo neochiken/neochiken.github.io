@@ -17,6 +17,7 @@ then click the button!
 ![OCSwapper2](/assets/images/OCSwapper2.png)
 
 Then you will need to set your prefered platform to handle OpenXR
+***ONLY SET ONE NOT ALL THREE!***
 
 ![OpenXRSelect](/assets/images/OpenXRSelect.png)
 
