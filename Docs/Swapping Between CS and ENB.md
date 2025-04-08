@@ -1,7 +1,7 @@
 ---
 title: Swapping Between CS and ENB
 layout: home
-nav_order: 10
+nav_order: 7
 ---
 
 # So you want to try out ENB and see if you like it better?

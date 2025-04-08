@@ -1,7 +1,7 @@
 ---
 title: Installing Reshade 6 to work with open composite
 layout: home
-nav_order: 5
+nav_order: 6
 ---
 # Steps to install reshade 6 with open composite
 
