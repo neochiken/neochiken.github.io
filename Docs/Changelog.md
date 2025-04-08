@@ -1223,12 +1223,33 @@ Hotfix 2:
 1. Learned how to read
 2. Reverted to earlier version of Modex that semi works in VR while waiting for official VR port
 
+## Tahrovin 3.0.0
+1. Huge changes to the profiles, There are now only three. Tahrovin Parallax Beta became the base Tahrovin Profile, Tahrovin Degeneracy Parallax Beta became Tahrovin Degen, and I kept the performance profile
+2. Changed the Theme of MO2
+3. Added a FOMOD wizard plugin that should (fingers crossed) remember your previous choices when reinstalling mods that have a fomod
+4. Made My own simple program using ChatGPT (Yes, I am ashamed) that will automatically edit the opencomposite.ini with your chosen character name for naming your character with open composite. The name will auto enter whenever you close racemenu so if you want to change your name after using the program just type !showracemenu in the console in game and close it to change your name on an existing save.
+5. Created a wiki with search functionality and rented a domain using donations to host it on to make it way easier for users to find what information they need from the ReadMe.
+6. Added a mod that should prevent racemenu overlays from culling when looking at them from weird angles
+7. Disabled Face Overlays by default since they aren't even hooked up to work and disabling them seems to fix the OCum invisibility bug.
+8. Made my own Muscle Mommy Uthgerd optional plugin based on Unbound Unbent Unbroken by SerketHetyt and added a section to the wiki on using it. As
+9. Created a guide on the wiki for swapping between CS and ENB on the main and degen profiles
+10. Updated Dismemberment Framework and its addons
+11. Updated CS and all of its addons
+12. Added VRAMr as a tool to the list for User Convenience
+13. Added a Mod to YOUR CHOICES that prevents you from accidentally clicking the search bar in your inventory and filtering for you name while using OC
+14. Added RESQUEEZED for TAWOBA and built it correctly this time
+15. Changed Arrow Recovery Rate to 100%, this makes it so that you can use weaponthrowVR without auto return and always get your weapon back
+15. Added AeLove's grit perk changes to Ordinator as he gave me permission and they fit many of the changes I wanted to make with mine.
+16. Added Aelove's Olenveld Boat Scene fix
+17. Had a small mental breakdown
+18. Got a lot of love for the wiki and was remotivated
+19. Added an invisible eyeball fix for the wolves in whiterun
+20. Wrote this Changelog and added it to the new wiki, have I mentioned the new wiki?
+
 KNOWN BUGS:
 
 - The scene where Harkon bites you and changes your race seems to temporarily break Vampire lords skeleton. To work around this after being bit and waking up in the tutorial room save the games, close skyrimVR completely, then relaunch and load your save and you should transform correctly.
 
 - Daegon causing random crashes when interacting with NPCs
-
-- Olenveld boat intro visual glitches
 
 - FIN -
