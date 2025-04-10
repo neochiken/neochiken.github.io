@@ -37,6 +37,7 @@ nav_order: 10
 18. Got a lot of love for the wiki and was remotivated
 19. Added an invisible eyeball fix for the wolves in whiterun
 20. Wrote this Changelog and added it to the new wiki, have I mentioned the new wiki?
+21. Added Many HIMBO bodyslides and made a new morph file for autobody to apply them while making discord moderator unique to nazeem
 
 
 ## Tahrovin 2.7.3
