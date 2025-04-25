@@ -13,7 +13,7 @@ First things first: **this list contains adult content and you must be of legal 
 
 <br>
 
-***Having issues with the modlist? [FAQ \& Common Issues](/Docs/Installation.html#faq--common-issues)***
+***Having issues with the modlist? [FAQ & Common Issues](/Docs/Installation.html#faq--common-issues)***
 
 <br>
   
