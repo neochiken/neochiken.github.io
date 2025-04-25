@@ -9,6 +9,12 @@ nav_order: 7
 
 Well I will admit that for my own sanity I made it a little harder but in exchange I will walk you through swapping between the two step by step as clearly as I can
 
+## Step 0 - Good Modding Practices
+
+
+The first thing you are going to do is prepare for if you either want to go back or if you mess something up. To do this we are going to clone the current profile. Simply open your Tahrovin MO2 instance, click the person/ID icon at the top left, click your cutten profile and then click copy. Name the new profile whatever you want. Select the new profile from the dropdown at the top of the left side of MO2 and work on that profile, if you mess things up, delete the profile, clone the original again, and start over on the clone.
+
+
 ## Step 1 - Enabling Mods
 
 
