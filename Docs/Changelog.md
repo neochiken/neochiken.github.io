@@ -14,6 +14,16 @@ nav_order: 10
 
 - Daegon causing random crashes when interacting with NPCs
 
+## Tahrovin 3.0.1
+1. Updated to the new RacemenuVR version that nightfallstorm and I made, this allows for facial overlays in character creation as well as fixing characters going invisible with ostim and allowing for cum overlays from facials.
+2. Removed Devious Devices NG, I am sad to remove it but it was causing a freeze whenever smp parts were being used that I could not find a way around.
+3. Added Mu Dynamic Normalmaps for some better body shadow/lighting
+4. Added Dint Faceparts for Cat ears, I have been informed that an UWU is mandatory here
+5. Created 3 new racemenu presets
+   - Floretta of the Twisted Wood (Redguard)
+   - Kurrisa the Suthay Khajiit (Bosmer) recommend adding tail 6 from fantasy creature HDTSMP tails to complete the look
+   - Voruna the Suthay Khajiit (Bosmer) you can either use the ears found in facial hair or search for ears in modex and give her the fox ears and blonde tail
+6. Added Low res smoke and embers to optional, it is hardly noticeable and gives an fps boost, so I have opted to have it enabled by default
 
 ## Tahrovin 3.0.0
 1. Huge changes to the profiles, There are now only three. Tahrovin Parallax Beta became the base Tahrovin Profile, Tahrovin Degeneracy Parallax Beta became Tahrovin Degen, and I kept the performance profile
