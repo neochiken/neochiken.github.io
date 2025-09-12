@@ -24,6 +24,8 @@ nav_order: 10
    - Kurrisa the Suthay Khajiit (Bosmer) recommend adding tail 6 from fantasy creature HDTSMP tails to complete the look
    - Voruna the Suthay Khajiit (Bosmer) you can either use the ears found in facial hair or search for ears in modex and give her the fox ears and blonde tail
 6. Added Low res smoke and embers to optional, it is hardly noticeable and gives an fps boost, so I have opted to have it enabled by default
+7. Changed one of the bags in RoL to have tails and ears for the new racemenu presets if you so choose.
+8. Was forced to remove NordwarUAs armor replacer as it is under moderation. Had to return all armor paths back to vanilla in a seperate esp labeled vanilla path fix in case it returns.
 
 ## Tahrovin 3.0.0
 1. Huge changes to the profiles, There are now only three. Tahrovin Parallax Beta became the base Tahrovin Profile, Tahrovin Degeneracy Parallax Beta became Tahrovin Degen, and I kept the performance profile
