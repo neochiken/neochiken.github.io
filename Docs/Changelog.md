@@ -17,10 +17,13 @@ nav_order: 11
 ## Tahrovin 3.0.2
 1. Updated community shaders version.
 2. Added new custom race specifically for a preset based on my Wife's D&D character Maevis
-3. Added a racemenu preset for Maevis
-4. Added a racemenu preset meant to look similar to radagon made by shifuyaku
-5. changed the default settings for defeat to no longer include bringing the defeat menu up on activating an npc, this should prevent future accidental bag nappings.
-6. Started work on a new section of the wiki for build suggestions.
+3. Modified the race to not have a tail by default
+4. Moved the antlers to facial hair in racemenu to make them consistant with other horns
+5. Tails are now in the Scars slider of racemenu. If you want the default tail for the driinken it is FC_tails2 I believe.
+6. Added a racemenu preset for Maevis
+7. Added a racemenu preset meant to look similar to radagon made by shifuyaku
+8. changed the default settings for defeat to no longer include bringing the defeat menu up on activating an npc, this should prevent future accidental bag nappings.
+9. Started work on a new section of the wiki for build suggestions.
 
 ## Tahrovin 3.0.1
 1. Updated to the new RacemenuVR version that nightfallstorm and I made, this allows for facial overlays in character creation as well as fixing characters going invisible with ostim and allowing for cum overlays from facials.
