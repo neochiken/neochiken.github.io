@@ -1,5 +1,6 @@
 ---
 title: Build Suggestions
+layout: home
 nav_order: 9
 ---
 

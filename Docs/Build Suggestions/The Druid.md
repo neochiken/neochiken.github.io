@@ -1,6 +1,7 @@
 ---
 title: The Druid
 parent: Build Suggestions
+layout: home
 nav_order: 1
 ---
 
