@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting
 layout: home
-nav_order: 9
+nav_order: 10
 ---
 
 # Troubleshooting
