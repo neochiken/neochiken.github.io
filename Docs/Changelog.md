@@ -14,6 +14,11 @@ nav_order: 11
 
 - Daegon causing random crashes when interacting with NPCs
 
+## Tahrovin 3.0.5
+1. Created a patch for Driinken race to allow them to become vampires and use sacrosanct.
+2. Added shizof's incredible mod interactive activators VR. I was lucky enough to beta test it and can confirm it works great.
+3. Swapped from Autobody to Obody finally, it was just easier to manage going forward for assiging specific presets to specific characters.
+
 ## Tahrovin 3.0.2
 1. Updated community shaders version.
 2. Added new custom race specifically for a preset based on my Wife's D&D character Maevis
