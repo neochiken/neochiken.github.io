@@ -43,3 +43,7 @@ LoversLab can be difficult when it comes to automated downloads, especially to t
 ![Black Square](/assets/images/BlackSquareUpscalerVR.png)
 
 Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session just follow the same steps again.
+
+### Weird distortion/messed up menus
+
+You have enabled skyrim upscaler while using community shaders, they are incompatible as community shaders already has its own built in upscaler. Skyrim Upscaler is only for the performance profile or following this wiki's instructions to swap to ENB.
