@@ -28,7 +28,7 @@ Optionally if you would like to have a name other than Tahrovin when using Open 
 ## Profiles
 There are three different profiles in Tahrovin, default which uses community shaders and reshade (Medium performance impact), ENB which uses ENB VR for visuals (High Performance impact), and then performance which only uses reshade and has the least performance impact.
 
-## Skyrim Upscaler/community shaders upscaler
+## Skyrim Upscaler/Community Shaders Upscaler
 If you have a 20xx or newer series Nvidia card I default skyrim Upscaler to DLAA for visuals, but you can change it from DLAA to DLSS to increase performance at the cost of some visual fidelity.
 If you are on performance profile this is accessed via the skyrim upscaler menu, if you are on any other profile it is found within the community shaders menu.
 
