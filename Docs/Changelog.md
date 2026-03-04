@@ -14,6 +14,14 @@ nav_order: 11
 
 - Daegon causing random crashes when interacting with NPCs
 
+## Tahrovin 3.0.6
+1. Created a patch for RSchilren and CoW that fixed an npc wearing an outfit they really really shouldnt be.
+2. Added the keyboard version of OC to OCswapper
+3. Fixed the solitude housecarl being a floating head
+4. Bandaid fix for the solitude windmill, will be actually fixed in later versions, this is better but still has a huge texture gap caused by bad parallax.
+
+This update is savesafe from 3.0.5 make sure to follow wabbajack's update instructions to keep any custom additions.
+
 ## Tahrovin 3.0.5
 1. Created a patch for Driinken race to allow them to become vampires and use sacrosanct.
 2. Added shizof's incredible mod interactive activators VR. I was lucky enough to beta test it and can confirm it works great.
