@@ -14,6 +14,12 @@ nav_order: 11
 
 - Daegon causing random crashes when interacting with NPCs
 
+## Tahrovin 3.0.7
+1. Updated Billy's animations to v10 in order to make the list installable again
+2. Updated Creature framework to V3-2A to avoid a similar problem with it cropping up in the near future
+
+save safe from 3.0.5+
+
 ## Tahrovin 3.0.6
 1. Created a patch for RSchilren and CoW that fixed an npc wearing an outfit they really really shouldnt be.
 2. Added the keyboard version of OC to OCswapper
