@@ -21,9 +21,7 @@ nav_order: 12
 
 [CBPC VRSex v1.41](https://www.loverslab.com/files/file/29662-cbpc-vrsex/)
 
-[Creature Framework 1.1.0-pre2A-SE](https://www.loverslab.com/files/file/5462-creature-framework-se/?do=download&r=678576)
-
-[CreatureFrameworkV3-1](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)
+[CreatureFrameworkV3-2A](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)
 
 [Devious Devices NG v0.4.0](https://www.loverslab.com/files/file/29779-devious-devices-ng/)
 
@@ -112,8 +110,6 @@ nav_order: 12
 [ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3](https://mega.nz/file/WEgGDaCa#wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
 
 ### Mediafire Files
-
-[More Nasty Critters Animations SE V15_4](https://www.mediafire.com/file/j386qo0w4qjm1b3/More_Nasty_Critters_Animations_SE_V15_4.7z/file)
 
 [Nord Queen [SE] - 4K textures](https://www.mediafire.com/file/loz8ltagu4782tk/Nord_Queen_%255BSE%255D_-_4K_textures.7z/file)
 
