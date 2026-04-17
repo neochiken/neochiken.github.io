@@ -14,6 +14,12 @@ nav_order: 11
 
 - Daegon causing random crashes when interacting with NPCs
 
+## Tahrovin 3.1.5
+1. FINALLY fixed problems with MNC updating
+2. Added Procedural Penis animations, this is a huge mod that will make almost all animation automatically align correctly, I have been trying to get this to work and be stable for a while now!
+3. Added Universal skeleton fix to replace the need for PPAs xpmse patch
+4. Deleted and recompiled all animations as errors in them were causing some CTDs for some users.
+
 ## Tahrovin 3.0.7
 1. Updated Billy's animations to v10 in order to make the list installable again
 2. Updated Creature framework to V3-2A to avoid a similar problem with it cropping up in the near future

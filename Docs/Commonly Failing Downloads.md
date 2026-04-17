@@ -107,7 +107,7 @@ nav_order: 12
 
 [Troll Bone Armor](https://mega.nz/file/pgoBxSCC#fFby_-XwQnXs3eEjygDnYAvpOaZTAVcv5mswq8pm5nQ)
 
-[ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3](https://mega.nz/file/WEgGDaCa#wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
+[ZaZ Animation Pack+ CBBE HDT V.8.0+SE2023.7z](https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg)
 
 ### Mediafire Files
 
