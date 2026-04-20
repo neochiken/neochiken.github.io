@@ -5,6 +5,8 @@ color_scheme: dark
 # Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
 nav_enabled: true
 logo: "/assets/images/Tahrovin.png"
+url: "https://tahrovinwiki.cc" # the base hostname & protocol for your site, e.g. http://example.com
+repository: neochiken/neochiken.github.io # for github-metadata
 
 defaults:
   - scope:
