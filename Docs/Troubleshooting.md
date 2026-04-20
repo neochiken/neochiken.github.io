@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting
 layout: home
-nav_order: 9
+nav_order: 10
 ---
 
 # Troubleshooting
@@ -43,3 +43,18 @@ LoversLab can be difficult when it comes to automated downloads, especially to t
 ![Black Square](/assets/images/BlackSquareUpscalerVR.png)
 
 Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session just follow the same steps again.
+
+### Weird distortion/messed up menus
+
+You have enabled skyrim upscaler while using community shaders, they are incompatible as community shaders already has its own built in upscaler. Skyrim Upscaler is only for the performance profile or following this wiki's instructions to swap to ENB.
+
+### CTD during Dawnguard questline at inner sanctum
+
+1. Make a save just before entering the inner sanctum
+2. In the Plug-ins tab note the position of VRIK.esp and Arctals VRIK Tweaks.esp
+3. Filter the left side of MO2 for VRIK and disable VRIK V0.8.4 and Arctals VRIK Tweaks Merged
+4. Load a save just before entering the inner sanctum.
+5. Enter the inner sanctum
+6. Save when able.
+7. Re-enable VRIK and Arctals VRIK Tweaks Merged and put their esps back where they were noted in step 1
+8. Load your most recent save, recalibrate VRIK, and continue on with the questline.

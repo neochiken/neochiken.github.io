@@ -1,7 +1,7 @@
 ---
 title: Changelog
 layout: home
-nav_order: 10
+nav_order: 11
 ---
 
 
@@ -13,6 +13,42 @@ nav_order: 10
 - The scene where Harkon bites you and changes your race seems to temporarily break Vampire lords skeleton. To work around this after being bit and waking up in the tutorial room save the games, close skyrimVR completely, then relaunch and load your save and you should transform correctly.
 
 - Daegon causing random crashes when interacting with NPCs
+
+## Tahrovin 3.1.5
+1. FINALLY fixed problems with MNC updating
+2. Added Procedural Penis animations, this is a huge mod that will make almost all animation automatically align correctly, I have been trying to get this to work and be stable for a while now!
+3. Added Universal skeleton fix to replace the need for PPAs xpmse patch
+4. Deleted and recompiled all animations as errors in them were causing some CTDs for some users.
+
+## Tahrovin 3.0.7
+1. Updated Billy's animations to v10 in order to make the list installable again
+2. Updated Creature framework to V3-2A to avoid a similar problem with it cropping up in the near future
+
+save safe from 3.0.5+
+
+## Tahrovin 3.0.6
+1. Created a patch for RSchilren and CoW that fixed an npc wearing an outfit they really really shouldnt be.
+2. Added the keyboard version of OC to OCswapper
+3. Fixed the solitude housecarl being a floating head
+4. Bandaid fix for the solitude windmill, will be actually fixed in later versions, this is better but still has a huge texture gap caused by bad parallax.
+
+This update is savesafe from 3.0.5 make sure to follow wabbajack's update instructions to keep any custom additions.
+
+## Tahrovin 3.0.5
+1. Created a patch for Driinken race to allow them to become vampires and use sacrosanct.
+2. Added shizof's incredible mod interactive activators VR. I was lucky enough to beta test it and can confirm it works great.
+3. Swapped from Autobody to Obody finally, it was just easier to manage going forward for assiging specific presets to specific characters.
+
+## Tahrovin 3.0.2
+1. Updated community shaders version.
+2. Added new custom race specifically for a preset based on my Wife's D&D character Maevis
+3. Modified the race to not have a tail by default
+4. Moved the antlers to facial hair in racemenu to make them consistant with other horns
+5. Tails are now in the Scars slider of racemenu. If you want the default tail for the driinken it is FC_tails2 I believe.
+6. Added a racemenu preset for Maevis
+7. Added a racemenu preset meant to look similar to radagon made by shifuyaku
+8. changed the default settings for defeat to no longer include bringing the defeat menu up on activating an npc, this should prevent future accidental bag nappings.
+9. Started work on a new section of the wiki for build suggestions.
 
 ## Tahrovin 3.0.1
 1. Updated to the new RacemenuVR version that nightfallstorm and I made, this allows for facial overlays in character creation as well as fixing characters going invisible with ostim and allowing for cum overlays from facials.
