@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "just-the-docs"
-  spec.version       = "0.10.1"
+  spec.version       = "0.12.0"
   spec.authors       = ["Patrick Marsceill", "Matthew Wang"]
   spec.email         = ["patrick.marsceill@gmail.com", "matt@matthewwang.me"]
 
@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
   spec.metadata      = {
     "bug_tracker_uri"   => "https://github.com/just-the-docs/just-the-docs/issues",
-    "changelog_uri"     => "https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.html",
+    "changelog_uri"     => "https://github.com/just-the-docs/just-the-docs/blob/main/CHANGELOG.md",
     "documentation_uri" => "https://just-the-docs.com/",
     "source_code_uri"   => "https://github.com/just-the-docs/just-the-docs",
   }
