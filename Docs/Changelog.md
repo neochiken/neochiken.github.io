@@ -14,6 +14,12 @@ nav_order: 11
 
 - Daegon causing random crashes when interacting with NPCs
 
+## Tahrovin 3.1.6
+1. Updated Submissive Lola to make the list installable again
+2. Generated new animation cache for Submissive Lola
+This update is save safe AS LONG AS YOU WERE NOT IN THE MIDDLE OF THE PARADE OR PONY EXPRESS QUESTS WITH SUBMISSIVE LOLA
+
+
 ## Tahrovin 3.1.5
 1. FINALLY fixed problems with MNC updating
 2. Added Procedural Penis animations, this is a huge mod that will make almost all animation automatically align correctly, I have been trying to get this to work and be stable for a while now!
