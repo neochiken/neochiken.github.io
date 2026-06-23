@@ -14,6 +14,10 @@ nav_order: 11
 
 - Daegon causing random crashes when interacting with NPCs
 
+## Tahrovin 3.1.7
+1. Updated SLAC to make the list installable again.
+
+
 ## Tahrovin 3.1.6
 1. Updated Submissive Lola to make the list installable again
 2. Generated new animation cache for Submissive Lola
