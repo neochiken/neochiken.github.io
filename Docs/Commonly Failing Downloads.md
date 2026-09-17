@@ -21,7 +21,7 @@ nav_order: 12
 
 [CBPC VRSex v1.41](https://www.loverslab.com/files/file/29662-cbpc-vrsex/)
 
-[CreatureFrameworkV3-2A](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)
+[CreatureFrameworkV4_0](https://www.loverslab.com/files/file/5464-more-nasty-critters-specialanniversary-edition/)
 
 [Devious Devices NG v0.4.0](https://www.loverslab.com/files/file/29779-devious-devices-ng/)
 
