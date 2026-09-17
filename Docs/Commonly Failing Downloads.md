@@ -71,7 +71,7 @@ nav_order: 12
 
 [SLAL_AnimationsByLeito_v1.6SE](https://www.loverslab.com/files/file/6357-slal-animation-pack-by-leito-se/)
 
-[SLAL_Billyy_Animations v9.3 SE](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-7-1/)
+[SLAL_Billyy_Animations v10.4SE](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2024-7-1/)
 
 [SLAL_M2MAnimations_SE_v20210222](https://www.loverslab.com/files/file/16160-m2m-animations-for-slal/)
 
